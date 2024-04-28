@@ -1,3 +1,5 @@
+<!-- // ya kam tha  -->
+
 1. Sab se pahla kam hamay ya karna ha ka map render karwana ha ... Pickup ka component par
 
 2. Current Location ...
@@ -5,3 +7,15 @@
    is ka use is liyee kiya q ka hamay har ek ki current position chahiyee thi har dafa ki ...
 
 3. Marker lana ha ...
+
+ <!-- {/* Wrap everything in ImageBackground */}
+      {/* <ImageBackground
+        source={{
+          uri: "https://raw.githubusercontent.com/officialsgcodes/React-Native-Login-Signup-UI/main/src/assets/leaves.jpg",
+        }}
+        style={styles.backgroundImage}
+        resizeMode="cover"
+      > */} -->
+
+
+# login or signup ka kam ho gaya ha firebase se connect kar ka jo kar na tha.. 
